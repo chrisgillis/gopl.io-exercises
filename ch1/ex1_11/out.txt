@@ -1,0 +1,16 @@
+Get http://linkedn.com: dial tcp: lookup linkedn.com: no such host
+Get http://xxxxyyssshhhhhsssss.com: dial tcp: lookup xxxxyyssshhhhhsssss.com: no such host
+0.18s  155636 http://google.co.in
+0.21s  153823 http://google.com
+0.27s   42852 http://wikipedia.org
+0.39s  255578 http://twitter.com
+0.42s    6421 http://amazon.com
+0.45s   54595 http://facebook.com
+0.55s   18977 http://yahoo.co.jp
+0.68s  372363 http://youtube.com
+0.84s  345969 http://yahoo.com
+0.96s    9551 http://live.com
+1.75s   55014 http://taobao.com
+1.87s  617393 http://qq.com
+8.10s      81 http://baidu.com
+8.10s elapsed
